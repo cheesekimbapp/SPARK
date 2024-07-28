@@ -1,10 +1,10 @@
 <h1 align="center">
   <br>
-  <a href="#"><img src="https://github.com/Bangkit-PetMate/PetMate/blob/main/app/src/main/res/drawable/logo_pet.png" alt="Markdownify" width="200"></a>
+  <a href="#"><img src="https://github.com/cheesekimbapp/SPARK/blob/main/public/img/logoweb.png" alt="Markdownify" width="200"></a>
   <br>
-  PetMate
+  SPARK
   <br>
-  “Your Pet Matchmaker”
+  SISTEM INFORMASI PENGELOLAAN TEMPAT PARKIR
 </h1>
 
 
@@ -18,15 +18,12 @@ This application can provide appropriate animal recommendations with user refere
 
 ## The Team
 
-|            Member           | Student ID |        Path        |                    Role                    |                                                       Contacts                                                      |
-| :-------------------------: | :--------: | :----------------: | :----------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
-|        Ghani Nail Zaidan        | A193BSY2957 |  Mobile Development  |        Android Mobile Developer          |         [Github](https://github.com/ghaninailzaidan)           |
-|    Narwastu Kurniawan    | A560BSY2080 |  Mobile Development  |          Android Mobile Developer         |  [Github](https://github.com/nrwstk)  |
-|     Alya Nur Afifa     | M283BSX1078 |  Machine Learning   |         Machine Learning Engineer                    |   [Github](https://github.com/alyanurafifa)             |
-|    Ghifari Ferdian Rizqullah     | M560BSY0058 |  Machine Learning   |         Machine Learning Engineer          |   [Github]()    |
-|   Ulfiya Tussyifaa   | M560BSX0223 |  Machine Learning|     Machine Learning Engineer               |   [Github]()            |
-|      Hava Maria Maszetta Valentixsqa Febrinanda Ruudjitto      | C283BSX3270 |  Cloud Computing|    DevOps Engineer                | [Github](https://github.com/Havamariamvfr) |
-|      Muhammad Muchtar Syarifrudin      | C283BSY3269 |  Cloud Computing|    DevOps Engineer                | [Github](https://github.com/cheesekimbapp) |
+|            Member           | Student ID |        Path        |                    Role                    |
+| :-------------------------: | :--------: | :----------------: | :----------------------------------------: |
+|        Gilang Alfarizi        | A193BSY2957 |  Mobile Development  |        Backend          |
+|    Muhammad Muchtar    | 4612421029 |  Mobile Development  |          Frontend|
+|     Nadya Qolbin     | M283BSX1078 |  Machine Learning   |         Database          |
+|    Stefan Enrico    | M560BSY0058 |  Machine Learning   |         Backend    |
 
 ## Repositories
 
