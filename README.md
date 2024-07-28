@@ -8,7 +8,7 @@
 </h1>
 
 
-## Bangkit-PetMate
+## RPL-SPARK
 The documentation of <b>SPARK</b> web application 2023
 
 ## About
